@@ -1,3 +1,31 @@
+* {
+    /* Reset some default styles */
+    background-color: black;
+    color: white;
+}
+
+#nav {
+    position: sticky;
+    top: 0px;
+    z-index: 0; 
+    background-color: black;
+}
+
+#nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    display: flex; 
+    padding: 20px; 
+    justify-content: flex-end; 
+}
+
+#nav-item {
+    margin-right: 20px;
+}
+
 nav {
     color: black; 
 }
