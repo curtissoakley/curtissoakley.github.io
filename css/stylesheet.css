@@ -1,10 +1,20 @@
-* {
-    /* Reset some default styles */
-    background-color: black;
-    color: white;
+/* COLOR PALETTE */ 
+:root {
+    --carbon-black:  #172121ff;
+    --charcoal-blue: #444554ff;
+    --ghost-white:   #f8f4f9ff;
+    --light-green:   #9ee493ff;
+    --rosy-granite:  #7f7b82ff;
 }
 
-#nav {
+/* GLOBAL STYLES */
+* {
+    background-color:var(--carbon-black);   
+    color: var(--ghost-white);
+}
+  
+/* NAVIGATION */
+nav {
     position: sticky;
     top: 0px;
     z-index: 0; 
@@ -16,7 +26,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: var(--carbon-black);
     display: flex; 
     padding: 20px; 
     justify-content: flex-end; 
