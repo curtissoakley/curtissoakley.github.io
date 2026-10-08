@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <!-- Want to create a calendar for my sports teams 
         - Maybe make a website that downloads your teams into a calendar file?-->
@@ -6,32 +6,48 @@
        The above URL has a JSON of the live NFL season, might be good to leverage here
        Maybe also could use ESPN score API -->
   <head>
-    <meta charset="utf-8" >
-    <link rel="stylesheet" href=".\css\stylesheet.css">
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href=".\css\stylesheet.css" />
     <meta
       name="description"
-      content="This website exist for me to mess around with web designs">
-    <meta name="viewport" content="width=devive=width, initial-scale=1.0">
-    
-    <title>Curtiss Oakley</title>
+      content="This website exist for me to mess around with web designs"
+    />
+    <meta name="viewport" content="width=devive=width, initial-scale=1.0" />
+
+    <title>Curtiss Oakley | Home</title>
   </head>
   <body>
-    <nav id="nav">
+    <nav class="bg-dark">
       <ul id="nav-list">
-        <li id="nav-item"><a href="./index.html">Home</a></li>
-        <li id="nav-item"><a href="./schedule/index.html">Schedule</a></li>
-        <li id="nav-item"><a href="./about/index.html">About</a></li>
+        <li><a class="nav-item" href="./index.html">Home</a></li>
+        <li><a class="nav-item" href="./schedule/index.html">Schedule</a></li>
+        <li><a class="nav-item" href="./about/index.html">About</a></li>
       </ul>
     </nav>
-  <section id="home">
-    <h2>Welcome to My Website</h2>
-    <p>This will eventually be a preview of different articles I've written. For now its a launch page. This thing is a work in progress</p>
-  </section>
-    
+    <section class="bg-light">
+      <div class="content-wrapper">
+        <h2>Welcome to My Website</h2>
+        <p>
+          Feel like a good design for this page would be a summary of the other
+          pages at hand. The current month in sport as well as the shortened
+          about section
+        </p>
+        <p>
+          Right now the sections are schedule and about. The schedule I hope to
+          be a calendar for my different sports teams for me to use as
+          reference. Felt like it is something useful for me since sports is an
+          integral part of my life as well as require certain technical skills.
+          The about section is for anyone interested in learning a bit more of
+          my background and interests.
+        </p>
+      </div>
+    </section>
+    <footer id="contact" class="bg-dark">
+      <a href="mailto:curtissoakley2301@gmail.com">Email Me</a>
+      <a href="https://www.linkedin.com/in/curtiss-oakley-987b05199"
+        >LinkedIn</a
+      >
+      <p>&copy; 2026 Curtiss Oakley. All rights reserved.</p>
+    </footer>
   </body>
-  <footer id="contact">
-    <a href="mailto:curtissoakley2301@gmail.com">Email Me</a>
-    <a href="https://www.linkedin.com/in/curtiss-oakley-987b05199">LinkedIn</a>
-    <p>&copy; 2026 Curtiss Oakley. All rights reserved.</p>
-  </footer>
 </html>
