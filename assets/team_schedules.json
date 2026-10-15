@@ -1,0 +1,752 @@
+[
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-08-24T19:00:00Z",
+    "home": "Fulham FC",
+    "away": "Chelsea FC",
+    "status": "final",
+    "score": {
+      "Fulham FC": 2,
+      "Chelsea FC": 3
+    }
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-08-30T13:00:00Z",
+    "home": "Chelsea FC",
+    "away": "Brighton & Hove Albion",
+    "status": "final",
+    "score": {
+      "Chelsea FC": 4,
+      "Brighton & Hove Albion": 3
+    }
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-09-05T01:00:00Z",
+    "home": "Stanford Cardinal",
+    "away": "Miami (FL) Hurricanes",
+    "status": "final",
+    "score": {
+      "Stanford Cardinal": 6,
+      "Miami (FL) Hurricanes": 45
+    }
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-09-06T15:30:00Z",
+    "home": "Arsenal FC",
+    "away": "Chelsea FC",
+    "status": "final",
+    "score": {
+      "Arsenal FC": 2,
+      "Chelsea FC": 1
+    }
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-09-11T00:00:00Z",
+    "home": "Miami (FL) Hurricanes",
+    "away": "Florida A&M Rattlers",
+    "status": "final",
+    "score": {
+      "Miami (FL) Hurricanes": 77,
+      "Florida A&M Rattlers": 7
+    }
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-09-12T14:00:00Z",
+    "home": "Chelsea FC",
+    "away": "Hull City",
+    "status": "final",
+    "score": {
+      "Chelsea FC": 2,
+      "Hull City": 2
+    }
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-09-13T17:00:00Z",
+    "home": "Carolina Panthers",
+    "away": "Chicago Bears",
+    "status": "final",
+    "score": {
+      "Carolina Panthers": 37,
+      "Chicago Bears": 59
+    }
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-09-18T19:00:00Z",
+    "home": "Brentford FC",
+    "away": "Chelsea FC",
+    "status": "final",
+    "score": {
+      "Brentford FC": 3,
+      "Chelsea FC": 0
+    }
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-09-18T23:30:00Z",
+    "home": "Wake Forest Demon Deacons",
+    "away": "Miami (FL) Hurricanes",
+    "status": "final",
+    "score": {
+      "Wake Forest Demon Deacons": 20,
+      "Miami (FL) Hurricanes": 33
+    }
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-09-20T17:00:00Z",
+    "home": "Chicago Bears",
+    "away": "Minnesota Vikings",
+    "status": "final",
+    "score": {
+      "Chicago Bears": 3,
+      "Minnesota Vikings": 9
+    }
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-09-26T22:30:00Z",
+    "home": "Miami (FL) Hurricanes",
+    "away": "Central Michigan Chippewas",
+    "status": "final",
+    "score": {
+      "Miami (FL) Hurricanes": 52,
+      "Central Michigan Chippewas": 3
+    }
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-09-29T00:15:00Z",
+    "home": "Chicago Bears",
+    "away": "Philadelphia Eagles",
+    "status": "final",
+    "score": {
+      "Chicago Bears": 27,
+      "Philadelphia Eagles": 7
+    },
+    "broadcast_or_title": "Monday Night Football"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-10-03T23:44:00Z",
+    "home": "Clemson Tigers",
+    "away": "Miami (FL) Hurricanes",
+    "status": "final",
+    "score": {
+      "Clemson Tigers": 13,
+      "Miami (FL) Hurricanes": 41
+    }
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-10-04T17:00:00Z",
+    "home": "Chicago Bears",
+    "away": "New York Jets",
+    "status": "final",
+    "score": {
+      "Chicago Bears": 23,
+      "New York Jets": 12
+    }
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-10-10T14:00:00Z",
+    "home": "Chelsea FC",
+    "away": "AFC Bournemouth",
+    "status": "final",
+    "score": {
+      "Chelsea FC": 5,
+      "AFC Bournemouth": 1
+    }
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-10-11T17:00:00Z",
+    "home": "Green Bay Packers",
+    "away": "Chicago Bears",
+    "status": "final",
+    "score": {
+      "Green Bay Packers": 31,
+      "Chicago Bears": 7
+    }
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-10-17T11:30:00Z",
+    "home": "Everton FC",
+    "away": "Chelsea FC",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-10-17T23:00:00Z",
+    "home": "Miami (FL) Hurricanes",
+    "away": "Florida State Seminoles",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-10-18T17:00:00Z",
+    "home": "Atlanta Falcons",
+    "away": "Chicago Bears",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-10-21T23:30:00Z",
+    "home": "Toronto Raptors",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-10-23T00:15:00Z",
+    "home": "Chicago Bears",
+    "away": "New England Patriots",
+    "status": "scheduled",
+    "broadcast_or_title": "Thursday Night Football"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-10-24T00:00:00Z",
+    "home": "Milwaukee Bucks",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-10-24T16:00:00Z",
+    "home": "Miami (FL) Hurricanes",
+    "away": "Pittsburgh Panthers",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-10-24T16:30:00Z",
+    "home": "Chelsea FC",
+    "away": "Tottenham Hotspur",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-10-25T00:00:00Z",
+    "home": "Chicago Bulls",
+    "away": "Washington Wizards",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-10-26T23:30:00Z",
+    "home": "Boston Celtics",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-10-29T00:00:00Z",
+    "home": "Chicago Bulls",
+    "away": "New York Knicks",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-10-30T23:30:00Z",
+    "home": "Boston Celtics",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-10-31T12:30:00Z",
+    "home": "Chelsea FC",
+    "away": "Manchester United",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-10-31T17:00:00Z",
+    "home": "North Carolina Tar Heels",
+    "away": "Miami (FL) Hurricanes",
+    "status": "time-tbd"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": "2026-11-02T23:00:00Z",
+    "date": "2026-11-02",
+    "opponent": "Florida Gators",
+    "location": "neutral (Tampa)",
+    "type": "non-conference"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-03T00:30:00Z",
+    "home": "Philadelphia 76ers",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-11-03T01:15:00Z",
+    "home": "Seattle Seahawks",
+    "away": "Chicago Bears",
+    "status": "scheduled",
+    "broadcast_or_title": "Monday Night Football"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-05T00:30:00Z",
+    "home": "New York Knicks",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-11-08T00:30:00Z",
+    "home": "Notre Dame Fighting Irish",
+    "away": "Miami (FL) Hurricanes",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-11-08T14:00:00Z",
+    "home": "Sunderland AFC",
+    "away": "Chelsea FC",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-08T20:30:00Z",
+    "home": "Chicago Bulls",
+    "away": "Philadelphia 76ers",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-11-09T01:20:00Z",
+    "home": "Chicago Bears",
+    "away": "Tampa Bay Buccaneers",
+    "status": "scheduled",
+    "broadcast_or_title": "Sunday Night Football"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-12T01:00:00Z",
+    "home": "Chicago Bulls",
+    "away": "San Antonio Spurs",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-14T01:00:00Z",
+    "home": "Chicago Bulls",
+    "away": "Atlanta Hawks",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-11-14T18:00:00Z",
+    "home": "Miami (FL) Hurricanes",
+    "away": "Duke Blue Devils",
+    "status": "time-tbd"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-15T01:00:00Z",
+    "home": "Minnesota Timberwolves",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-17T00:00:00Z",
+    "home": "Cleveland Cavaliers",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-19T00:30:00Z",
+    "home": "Brooklyn Nets",
+    "away": "Chicago Bulls",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "start_time_utc": "2026-11-21T01:00:00Z",
+    "home": "Chicago Bulls",
+    "away": "Washington Wizards",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-11-21T15:00:00Z",
+    "home": "Chelsea FC",
+    "away": "Leeds United",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-11-21T18:00:00Z",
+    "home": "Miami (FL) Hurricanes",
+    "away": "Virginia Tech Hokies",
+    "status": "time-tbd"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-11-22T18:00:00Z",
+    "home": "Chicago Bears",
+    "away": "New Orleans Saints",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": "2026-11-24T20:00:00Z",
+    "date": "2026-11-24",
+    "opponent": "TCU Horned Frogs",
+    "location": "neutral",
+    "type": "non-conference"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-11-26T18:00:00Z",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
+    "status": "scheduled",
+    "broadcast_or_title": "Thanksgiving"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-11-27T20:00:00Z",
+    "home": "Nottingham Forest",
+    "away": "Chelsea FC",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Football",
+    "league": "NCAA FBS (ACC)",
+    "start_time_utc": "2026-11-28T18:00:00Z",
+    "home": "Miami (FL) Hurricanes",
+    "away": "Boston College Eagles",
+    "status": "time-tbd"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-12-02T20:00:00Z",
+    "home": "Chelsea FC",
+    "away": "Crystal Palace",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": "2026-12-03T02:15:00Z",
+    "date": "2026-12-02",
+    "opponent": "Alabama Crimson Tide",
+    "location": "home",
+    "type": "non-conference",
+    "tv": "ESPN"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-12-05T15:00:00Z",
+    "home": "Chelsea FC",
+    "away": "Liverpool FC",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-12-06T18:00:00Z",
+    "home": "Chicago Bears",
+    "away": "Jacksonville Jaguars",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-12-12T15:00:00Z",
+    "home": "Manchester City",
+    "away": "Chelsea FC",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2026-12-12",
+    "opponent": "Texas Longhorns",
+    "location": "neutral",
+    "type": "non-conference"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-12-13T18:00:00Z",
+    "home": "Miami Dolphins",
+    "away": "Chicago Bears",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chelsea FC",
+    "league": "Premier League",
+    "start_time_utc": "2026-12-19T15:00:00Z",
+    "home": "Chelsea FC",
+    "away": "Aston Villa",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-12-20T01:20:00Z",
+    "home": "Buffalo Bills",
+    "away": "Chicago Bears",
+    "status": "scheduled"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2026-12-25T18:00:00Z",
+    "home": "Chicago Bears",
+    "away": "Green Bay Packers",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2026-12-29",
+    "opponent": "NC State Wolfpack",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-02",
+    "opponent": "Pittsburgh Panthers",
+    "location": "away",
+    "type": "ACC"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2027-01-03T21:25:00Z",
+    "home": "Chicago Bears",
+    "away": "Detroit Lions",
+    "status": "scheduled"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-05",
+    "opponent": "Georgia Tech Yellow Jackets",
+    "location": "away",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-09",
+    "opponent": "Syracuse Orange",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "start_time_utc": "2027-01-10T18:00:00Z",
+    "home": "Minnesota Vikings",
+    "away": "Chicago Bears",
+    "status": "flex-schedule"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-16",
+    "opponent": "Virginia Cavaliers",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-19",
+    "opponent": "Louisville Cardinals",
+    "location": "away",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-23",
+    "opponent": "Virginia Tech Hokies",
+    "location": "away",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-27",
+    "opponent": "Clemson Tigers",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-01-30",
+    "opponent": "Wake Forest Demon Deacons",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": "2027-02-02T00:00:00Z",
+    "date": "2027-02-01",
+    "opponent": "Duke Blue Devils",
+    "location": "away",
+    "type": "ACC",
+    "tv": "ESPN"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-02-06",
+    "opponent": "Florida State Seminoles",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-02-10",
+    "opponent": "Stanford Cardinal",
+    "location": "away",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-02-13",
+    "opponent": "California Golden Bears",
+    "location": "away",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-02-20",
+    "opponent": "Notre Dame Fighting Irish",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": "2027-02-23T00:00:00Z",
+    "date": "2027-02-22",
+    "opponent": "North Carolina Tar Heels",
+    "location": "away",
+    "type": "ACC",
+    "tv": "ESPN"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-02-27",
+    "opponent": "Pittsburgh Panthers",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-03-02",
+    "opponent": "SMU Mustangs",
+    "location": "home",
+    "type": "ACC"
+  },
+  {
+    "team": "University of Miami Men's Basketball",
+    "league": "NCAA Division I (ACC)",
+    "start_time_utc": null,
+    "date": "2027-03-06",
+    "opponent": "Florida State Seminoles",
+    "location": "away",
+    "type": "ACC"
+  }
+]

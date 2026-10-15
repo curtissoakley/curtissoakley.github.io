@@ -1,4 +1,8 @@
 <!doctype html>
+<!-- IMPROVEMENT IDEAS 
+      1. Make the calendar display team logos
+      2. Make it where details are hidden until you click 
+  -->
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -18,7 +22,21 @@
       <div class="content-wrapper">
         <h2>Schedule</h2>
         <h3>September</h3>
-        <ul>
+        <div id="calendar">
+          <div class="calendar-header">
+            <div class="calendar-day">Sun</div>
+            <div class="calendar-day">Mon</div>
+            <div class="calendar-day">Tue</div>
+            <div class="calendar-day">Wed</div>
+            <div class="calendar-day">Thu</div>
+            <div class="calendar-day">Fri</div>
+            <div class="calendar-day">Sat</div>
+          </div>
+          <div class="calendar-body">
+            <!-- Calendar days will be generated here -->
+          </div>
+        </div>
+        <!-- <ul>
           <li>9/4 - Stanford Cardinals 6 vs Miami Hurricanes 45</li>
           <li>9/6 - Arsenal 2 vs Chelsea 1</li>
           <li>9/6 - Chelsea 6 - Leeds 3</li>
@@ -30,7 +48,7 @@
           <li>9/20 - Chicago Bears vs Minnesota Vikings</li>
           <li>9/26 - Miami Hurricanes vs Central Michigan Chippewas</li>
           <li>9/28 - Chicago Bears vs Philadelphia Eagles</li>
-        </ul>
+        </ul> -->
       </div>
     </section>
     <footer id="contact" class="bg-dark">
