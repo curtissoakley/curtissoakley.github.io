@@ -1,4 +1,5 @@
-/* COLOR PALETTE */ 
+/* COLOR PALETTE
+   ---------------------------------------  */ 
 :root {
     --carbon-black:  #172121ff;
     --charcoal-blue: #444554ff;
@@ -7,7 +8,16 @@
     --rosy-granite:  #7f7b82ff;
 }
 
-/* GLOBAL STYLING */
+/* GLOBAL STYLING
+   ---------------------------------------  */
+.bg-dark a {
+    color: var(--ghost-white);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+} */
 html {
   box-sizing: border-box;
 }
@@ -22,6 +32,17 @@ html, body {
     height: 100%;
 }
 
+/* LINKS
+   ---------------------------------------  */
+.bg-dark a {
+    color: var(--ghost-white);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -31,7 +52,8 @@ h1, h2, h3, h4{
     margin: 0; 
 }
 
-/* BASE STYLE CLASSES */
+/* BASE STYLE CLASSES 
+   --------------------------------------- */
 .bg-dark {
     background-color: var(--carbon-black);
     color: var(--ghost-white);  
@@ -47,7 +69,8 @@ h1, h2, h3, h4{
     color: var(--carbon-black);  
 }
 
-/* NAVIGATION */
+/* NAVIGATION
+   ---------------------------------------  */
 nav {
     position: sticky;
     z-index: 0; 
@@ -68,32 +91,17 @@ nav {
     margin-right: 20px;
 }
 
-/* CONTENT WRAPPER */
+/* CONTENT WRAPPER
+   ---------------------------------------  */
 .content-wrapper {
     padding: 20px;
     max-width: 800px;
     margin: 0 auto;
 }
 
-/* ANCHORS */
-.bg-dark a {
-    color: var(--ghost-white);
-    text-decoration: none;
-}
 
-a:hover {
-    text-decoration: underline;
-}
-
-/* FOOTER */
-footer {
-    padding: 20px;
-    text-align: center;
-}
-
-
-
-/* CALENDAR */
+/* CALENDAR
+   --------------------------------------- */
 .calendar-header {
     display: flex;
     background-color: var(--light-green);
@@ -107,4 +115,20 @@ footer {
     text-align: center;
     padding: 10px;
     border: 1px solid var(--charcoal-blue);
+}
+
+/*  RESUME
+   --------------------------------------- */
+.resume-wrapper {
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+}
+
+/* FOOTER
+   ---------------------------------------  */
+footer {
+    padding: 20px;
+    text-align: center;
 }
